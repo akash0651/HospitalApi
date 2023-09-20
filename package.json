@@ -1,7 +1,7 @@
 {
   "name": "covid19-api",
   "version": "1.0.0",
-  "description": "API for Doctors of a Hospital which has been allocated by the govt. for testing, quarantine as well as well being of COVID-19 patients. Submitted to Arpan Garg(Coding Ninjas) by Shubham Rakshit as Mock Interview.\"",
+  "description": "API for Doctors of a Hospital which has been allocated by the govt. for testing, quarantine as well as well being of COVID-19 patients.\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
