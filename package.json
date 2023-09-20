@@ -1,0 +1,23 @@
+{
+  "name": "covid19-api",
+  "version": "1.0.0",
+  "description": "API for Doctors of a Hospital which has been allocated by the govt. for testing, quarantine as well as well being of COVID-19 patients. Submitted to Arpan Garg(Coding Ninjas) by Shubham Rakshit as Mock Interview.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Akash Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.4",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1",
+    "token": "^0.1.0"
+  }
+}
